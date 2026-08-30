@@ -44,7 +44,7 @@ If you want to update the dictionary with the latest Wikipedia dump or modify th
 
 ```bash
 git clone https://github.com/mojienjoyment/aosp-persian-dict.git
-cd aosp-persian-dict/scripts
+cd aosp-persian-dict
 
 # Install Python dependencies for PyPy
 pypy3 -m pip install spylls regex wikiextractor
@@ -80,10 +80,10 @@ pypy3 build_dict.py
 Use the AOSP Java compiler to create the final binary.
 ```bash
 # Download dicttool if you don't have it in the tools/ folder
-wget -O ../tools/dicttool_aosp.jar https://codeberg.org/Helium314/aosp-dictionaries/raw/branch/main/tools/dicttool_aosp.jar
+wget -O dicttool_aosp.jar https://codeberg.org/Helium314/aosp-dictionaries/raw/branch/main/tools/dicttool_aosp.jar
 
 # Compile the dictionary
-java -jar ../tools/dicttool_aosp.jar makedict -s main_fa_IR.combined -d ../dicts/main_fa_IR.dict
+java -jar dicttool_aosp.jar makedict -s main_fa_IR.combined -d main_fa_IR.dict
 ```
 
 ---
