@@ -1,7 +1,7 @@
 # aosp-persian-dict
 🇮🇷 Modern Persian (Farsi) dictionary for HeliBoard &amp; AOSP keyboards. Optimized for accurate glide typing, modern vocabulary, and next-word suggestions using Wikipedia data.
 
-# 🇮🇷 HeliBoard Persian Dictionary (Wikipedia-Based)
+# 🇮🇷 AOSP Persian Dict (Wikipedia-Based)
 
 A highly optimized, modern, and comprehensive Persian (Farsi) dictionary for [HeliBoard](https://github.com/Helium314/HeliBoard) and other AOSP-based Android keyboards. 
 
@@ -24,8 +24,8 @@ If you just want to use the dictionary on your phone, follow these steps:
    Go to the [Releases](../../releases) page or the repo and download `main_fa_IR.dict`.
 2. **Transfer to your Phone:** 
    Copy the `.dict` file to your Android device's internal storage.
-3. **Enable in HeliBoard:**
-   - Open **HeliBoard Settings** -> **Dictionary**
+3. **Enable in HeliBoard or other AOSP Keyboards:**
+   - Open **Keyboard Settings** -> **Dictionary**
    - Add Dict file to it.
 
 ---
