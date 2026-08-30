@@ -21,7 +21,7 @@ Default Persian dictionaries often suffer from outdated vocabulary, poor glide-t
 If you just want to use the dictionary on your phone, follow these steps:
 
 1. **Download the Dictionary:** 
-   Go to the [Releases](../../releases) page or the [`dicts/`](./dicts/) folder and download `main_fa_IR.dict`.
+   Go to the [Releases](../../releases) page or the repo and download `main_fa_IR.dict`.
 2. **Transfer to your Phone:** 
    Copy the `.dict` file to your Android device's internal storage.
 3. **Enable in HeliBoard:**
