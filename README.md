@@ -102,7 +102,7 @@ This project would not be possible without the incredible work of the open-sourc
 
 - **[HeliBoard](https://github.com/Helium314/HeliBoard)** & **[Helium314](https://codeberg.org/Helium314)**: For maintaining the best HeliBoard keyboard and providing the core Python scripts (`wordlist.py`, `wordlist_combined.py`, `dicttool_aosp.jar`).
 - **[Wikimedia Foundation](https://www.wikimedia.org/)**: For providing the massive, constantly updated Persian Wikipedia dumps used as the primary corpus.
-- **[LibreOffice / Hunspell](https://github.com/LibreOffice/dictionaries)**: For maintaining the Persian (`fa_IR`) Hunspell dictionary, which provides the grammatical rules.
+- **[LibreOffice / Hunspell](https://github.com/LibreOffice/dictionaries)**: For maintaining the Persian (`fa-IR`) Hunspell dictionary, which provides the grammatical rules.
 - **[spylls](https://github.com/zverok/spylls)**: For the pure-Python Hunspell implementation.
 - **[wikiextractor](https://github.com/attardi/wikiextractor)**: For the excellent tool used to parse the massive Wikipedia XML dumps.
 
